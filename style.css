@@ -9,7 +9,7 @@ body{
     justify-content: center;
     min-height:90vh;
     min-width: 100vh;
-    background-image: url(images/img.jpeg);
+    background-image: url(img.jpeg);
     background-position: center;
     background-size: cover;
     flex-direction: column;
